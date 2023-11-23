@@ -15,3 +15,10 @@ more .\BuberDinner.sln
 dotnet sln add (ls -r **\*.csproj)
 
 dotnet build
+
+dotnet add .\BuberDinner.Api reference .\BuberDinner.Contracts\ .\BuberDinner.Application\
+
+dotnet add .\BuberDinner.Infrastructure reference .\BuberDinner.Application\
+
+dotnet add .\BuberDinner.Application reference .\BuberDinner.Domain\
+

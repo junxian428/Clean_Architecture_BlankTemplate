@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oLWUlEiYbUTPt13RE8TqJh6vkPp7RYgDZLaloWsXc4B1dtd70xd+79YfHrZEqQwb+EM4glNbHvRClNWqy1kgyA==",
+  "dgSpecHash": "xffgQQ5a3JZpAXHKZN1InJ3NbQFXEp4kQhXehTzMwjk1airEE31CkiL+v50pysnme+x2MXZ5T87W0ehKMcfkaA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\junxian428\\Desktop\\YouTube_Clean_Tutorial\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
+  "projectFilePath": "C:\\Users\\junxian428\\Desktop\\BlankTemplate\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\junxian428\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.0\\microsoft.aspnetcore.openapi.8.0.0.nupkg.sha512",
     "C:\\Users\\junxian428\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
